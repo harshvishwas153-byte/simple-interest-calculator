@@ -1,10 +1,11 @@
-# Simple Interest Calculator
+# simple-interest-calculator
 
-This project calculates simple interest using the formula:
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-Simple Interest = (P × R × T) / 100
+Input:
+p, principal amount
+t, time period in years
+r, annual rate of interest
 
-Where:
-- P = Principal Amount
-- R = Rate of Interest
-- T = Time
+Output:
+simple interest = p*t*r
